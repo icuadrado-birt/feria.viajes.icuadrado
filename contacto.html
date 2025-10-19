@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contacto - Feria Internacional de Viajes 2025</title>
+  <link rel="stylesheet" href="estilos/estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Contacto</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="destinos.html">Destinos</a></li>
+      <li><a href="actividades.html">Actividades</a></li>
+      <li><a href="alojamientos.html">Alojamientos</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h2>Envíanos tu mensaje</h2>
+    
+	<form action="index.html" method="post" enctype="text/plain" onsubmit="return validarFormularioContacto()">
+      <label>Nombre:</label>
+      <input type="text" name="nombre" required>
+
+      <label>Email:</label>
+      <input type="email" name="email" required>
+
+      <label>Mensaje:</label>
+      <textarea name="mensaje" rows="5" required></textarea>
+
+      <input type="submit" value="Enviar">
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Feria Internacional de Viajes | icuadrado</p>
+  </footer>
+  <script src="funciones/funciones.js"></script>
+</body>
+</html>
