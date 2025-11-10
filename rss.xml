@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Novedades - Feria Internacional de Viajes 2025</title>
+  <link>https://icuadrado-birt.github.io/feria.viajes.icuadrado/</link>
+  <description>Últimas noticias y actualizaciones de la Feria Internacional de Viajes, Madrid.</description>
+  <language>es-es</language>
+  <pubDate>Mon, 10 Nov 2025 09:35:58 CET</pubDate>
+  <lastBuildDate>Mon, 10 Nov 2025 09:35:58 CET</lastBuildDate>
+  
+  <item>
+    <title>¡Nuevo país confirmado en Destinos!</title>
+    <link>https://icuadrado-birt.github.io/feria.viajes.icuadrado/destinos.html</link>
+    <description>La lista de países y regiones presentes se actualiza. ¡Descubre el último destino que se ha sumado a la Feria!</description>
+    <pubDate>Mon, 10 Nov 2025 09:35:58 CET</pubDate>
+    <guid>https://icuadrado-birt.github.io/feria.viajes.icuadrado/destinos.html#nov-10-2025</guid>
+  </item>
+  
+  <item>
+    <title>Conferencia sobre Turismo Sostenible: ¡Cambio de Hora!</title>
+    <link>https://icuadrado-birt.github.io/feria.viajes.icuadrado/actividades.html</link>
+    <description>La conferencia del día 22 de marzo sobre turismo sostenible ha cambiado de horario. Consulta la nueva hora en la página de Actividades.</description>
+    <pubDate>Mon, 10 Nov 2025 09:35:58 CET</pubDate>
+    <guid>https://icuadrado-birt.github.io/feria.viajes.icuadrado/actividades.html#nov-10-2025-a</guid>
+  </item>
+</channel>
+</rss>
